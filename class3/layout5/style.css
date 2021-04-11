@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: darkred;
+     color: white;
+     text-align: center;
+     height: 80px;
+} 
+.center{
+    overflow: hidden;
+}
+.ar1{
+    background-color: rgb(153, 69, 54);
+    color: white;
+    width: 25%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.ar2{
+    background-color: rgb(129, 48, 129);
+    color: white;
+    width: 25%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.ar3{
+    background-color: rgb(192, 102, 92);
+    color: rgb(252, 250, 250);
+    width: 25%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.ar4{
+    background-color: purple;
+    color: white;
+    width: 25%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.footer{
+    background-color: palevioletred;
+    color: white;
+    height: 80px;
+    text-align: center;
+}

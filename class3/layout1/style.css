@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    background-color: darkblue;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
+.left_content{
+    width: 50%;
+    height: 400px;
+    background-color: purple;
+    float: left;
+    text-align: center;
+
+}
+.right_content{
+    width: 50%;
+    background-color: rebeccapurple;
+    height: 400px;
+    display: inline;
+    float: right;
+    text-align: center;
+}
+.main_content{
+    background-color: royalblue;
+    height: 300px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.footer{
+    background-color: teal;
+    height: 100px;
+    text-align: center;
+}
+

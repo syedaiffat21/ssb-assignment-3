@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+    background-color: rgb(167, 122, 219);
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+.menu{
+    width: 80%;
+    float: left;
+    background-color: turquoise;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+.bar{
+    background-color: royalblue;
+    height: 70px;
+    text-align: center;
+    color: white;
+}
+.content{
+overflow: hidden;
+}
+.left{
+width: 20%;
+height: 400px;
+background-color: rgb(11, 185, 185);
+color: white;
+float: left;
+text-align: center;
+}
+.center{
+width: 60%;
+height: 400px;
+background-color: rgb(83, 95, 59);
+float: left;
+}
+.right{
+width: 20%;
+height: 400px;
+background-color: rgb(112, 80, 112);
+color: white;
+float: right;
+text-align: center;
+}
+.top{
+    height: 100px;
+    background-color: plum;
+}
+.middle{
+    height: 200px;
+    background-color: hotpink;
+    overflow: hidden;
+    
+}
+.middle-left{
+    width: 50%;
+    background-color: salmon;
+    float: left;
+    height: 100%;
+}
+.middle-right{
+    width: 50%;
+    background-color: sienna;
+    float: right;
+    height: 100%;
+}
+.bottom{
+    height: 100px;
+    background-color: slategrey;
+}
+.footer{
+    background-color: thistle;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
